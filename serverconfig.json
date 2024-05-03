@@ -29,6 +29,11 @@
     "http://10.0.1.38:8082"
   ],
 
+  "basicAuthentication": {
+    "username": "myusername",
+    "password": "mypassword"
+  },
+
   "proxyAllDomains": false,
 
   "appendParamToQueryString": {
