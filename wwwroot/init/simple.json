@@ -10,7 +10,7 @@
       "id": "KyAExQjg6s",
       "name": "Google Photorealistic 3D Tiles",
       "type": "3d-tiles",
-      "url": "https://tile.googleapis.com/v1/3dtiles/root.json?key=AIzaSyDJVf8UGKRfbqhH2Osv_8uU06w_1bNMLvs",
+      "url": "https://tile.googleapis.com/v1/3dtiles/root.json?key=",
       "options": {
         "showCreditsOnScreen": true
       },

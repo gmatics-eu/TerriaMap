@@ -10,7 +10,7 @@
     "useCesiumIonTerrain": true,
     "useCesiumIonBingImagery": true,
     "supportEmail": "info@terria.io",
-    "cesiumIonAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJhYmQwMTFmNC1mNTcwLTQyMWItYWIzNi01NjNmZjU4YzU5NmYiLCJpZCI6MTQ3MTc5LCJpYXQiOjE2ODY4NDU1MDZ9.wO7IvxlEW7OXWVc7xBFD6RJCeDeL3TBv4r2ofr8SbaA",
+    "cesiumIonAccessToken": "",
     "credits": [{ "text": "ciao", "url": "eer" }],
     "appName": "cesium Map",
     "showWelcomeMessage": true,
