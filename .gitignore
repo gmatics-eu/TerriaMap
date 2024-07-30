@@ -22,6 +22,8 @@ datasources/00_National_Data_Sets.json
 /output.log
 privateserverconfig.json
 wwwroot/privateconfig.json
+devserverconfig.json
+devproxyauth.json
 deploy/packages/
 deploy/work/
 packages/
