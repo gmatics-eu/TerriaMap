@@ -15,11 +15,15 @@ datasources/00_National_Data_Sets.json
 /terriajs-server.log
 
 /wwwroot/editor/
+/wwwroot/init/simple.json
+/wwwroot/config.json
 /error.log
 /error.log
 /output.log
 privateserverconfig.json
 wwwroot/privateconfig.json
+devserverconfig.json
+devproxyauth.json
 deploy/packages/
 deploy/work/
 packages/
